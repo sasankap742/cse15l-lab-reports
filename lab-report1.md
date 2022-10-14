@@ -20,6 +20,7 @@ Moving Files with scp
 The first mistake I made here was not being inside the correct directory of the file that I wanted to move. Using the -cd command I navigated there. 
 Then I was able to sucessfully use the scp command to copy the file over to the remote server.
 ![image](https://user-images.githubusercontent.com/78668680/195766725-946dd2e6-ec9f-4bb0-9d17-d541ebcef81b.png)
+
 Used the commands javac to compile and java to run a java file.
 
 Setting an SSH Key
