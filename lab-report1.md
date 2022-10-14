@@ -27,4 +27,5 @@ Setting an SSH Key
 This is where I was struggling the most. At first I couldn't properly figure out using the commands that created a private key and the public key that was to be sent to the remote server. Once, I figured out the error was not properly entering the path I had for the keys, I managed to create the keys. I then moved copied public key to the remote server. However, I didn't get to complete by using ssh key to login aferwards. 
 
 Optimizing Remote Running
+
 The process that I came up was first using scp to copy over to remote and then using javac and java on one line to compile and run the file. However, I couldn't get it down to under 10 strokes.
