@@ -5,9 +5,9 @@ The less command by default is used to view the content of a file without having
 
 less <filename> command with the option -X  
 Shows the file content as normal with the exception of leaving the content on the terminal when you exit by pressing ‘q’
-
-![image](https://user-images.githubusercontent.com/78668680/198960321-6a78b1c3-f902-4713-b469-e6a7b559e4c6.png)
-
+  
+![image](https://user-images.githubusercontent.com/78668680/198960586-72fb9198-8251-4e1c-83ed-754d850d7ff3.png)
+  
 less <filename> command with the option -N 
 Shows the file content with the line numbers displayed.
 Useful when looking at code.
