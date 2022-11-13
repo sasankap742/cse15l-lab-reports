@@ -34,7 +34,7 @@ Example 3:
   ![image](https://user-images.githubusercontent.com/78668680/201503904-f84558cf-77a5-4835-8fec-3b90956c16e8.png)
 
 less <filename> command with the option - +/pattern 
-Shows the file content, searches forward and highlights where the pattern matches.Only Shows content of the file upto that last occurance of pattern.
+Searches forward in the file and highlights where the pattern matches.Only Shows content of the file upto that last occurance of pattern.
 
 Example 1:
   
